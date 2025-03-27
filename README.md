@@ -54,7 +54,7 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 5. In Disk Management, find your new disk (marked as "Not Initialized") -> Right-click the new disk → Initialize Disk → Select **MBR**.
 6. Right-click Unallocated Space → **New Simple Volume** → Format the disk -> Click next → Finish.
 
----
+
 
 ## Output:
 
@@ -62,23 +62,22 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 
 ![](./images/VB.png)
 
----
+
 
 ### **Virtual Machine (Kali Linux)**
 
-```
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/73f13d8d-a70f-4f24-bdae-a5e850f9e15b" />
 
 
-```
+
 
 
 ### **Autopsy**
 
-```
+
 ![](./images/autopsy.png)
-```
+
 
 ### **Sleuth Kit**
 
@@ -86,13 +85,13 @@ To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy 
 
 ![](./images/s2.png)
 
----
+
 
 ### **Creation of Virtual Hard Disk**
 
 ![](./images/disk.png)
 
----
+
 
 ## Result :
 The installation of VirtualBox, Autopsy, and Sleuth Kit, along with the setup of Kali Linux - Virtual Machine and the creation of a new virtual disk, has been successfully completed.
